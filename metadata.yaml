@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26122
     wikipedia: http://zh.wikipedia.org/wiki/%E9%9F%93%E5%AC%B0
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23909#----
 gutenberg_issued: '2007-12-19'
 gutenberg_type: Text
 identifiers:
